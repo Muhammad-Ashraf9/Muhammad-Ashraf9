@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
-<h3 align="center">A passionate web developer from Egypt</h3>
+<h3 align="center">Web developer</h3>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+- 📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1i-yttz1Qxuqyp9EVnlqKv0mU8x0irIDf/view?usp=sharing).
 - 🔭 I’m currently working on **TERYAQ**
 
 - 🌱 I’m currently learning **Backend**
