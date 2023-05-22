@@ -3,11 +3,9 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1i-yttz1Qxuqyp9EVnlqKv0mU8x0irIDf/view?usp=sharing).
-- 🔭 I’m currently working on **TERYAQ**
+- 🔭 I’m currently working on **Graduation Project**
 
 - 🌱 I’m currently learning **Backend**
-
-- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **muhammad.ashraf.tahaa@gmail.com**
 
