@@ -2,10 +2,10 @@
 <h3 align="center">Web developer</h3>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1grX0jMdMKc-_aa_QfGA3msaIW7-ha-S5/view?usp=sharing).
-- 🔭 I’m currently working on **Graduation Project**
+- 📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1bopM-ptaBCkWejefLydeoN4pxDdCljLZ/view?usp=sharing).
+- 🔭 I’m currently working on **E-commerce Project**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **muhammad.ashraf.tahaa@gmail.com**
 
