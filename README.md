@@ -2,7 +2,7 @@
 <h3 align="center">Web developer</h3>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1bopM-ptaBCkWejefLydeoN4pxDdCljLZ/view?usp=sharing).
+- 📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1rONWqbQsQaNC7WSBJnBzpcn8zPDVGm9b/view?usp=sharing).
 - 🔭 I’m currently working on **E-commerce Project**
 
 - 🌱 I’m currently learning **Node.js**
