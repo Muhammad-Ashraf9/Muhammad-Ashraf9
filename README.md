@@ -3,10 +3,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/1rONWqbQsQaNC7WSBJnBzpcn8zPDVGm9b/view?usp=sharing).
-- 🔭 I’m currently working on **E-commerce Project**
-
-- 🌱 I’m currently learning **Node.js**
-
+- 🔭 I’m currently a trainee at **ITI**.
 - 📫 How to reach me **muhammad.ashraf.tahaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
