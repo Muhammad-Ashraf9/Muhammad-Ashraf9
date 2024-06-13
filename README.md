@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 📄 &nbsp;Please have a look at my [CV](https://drive.google.com/file/d/17A3MhqXj89MWeSdXfc-wlk6BScGhwCd6/view?usp=sharing).
+- 📄 &nbsp;Please have a look at my [CV](https://drive.google.com/drive/folders/1EKTDiOSEKBZ6MuASY5lGIe9uF7umRixz?usp=sharing).
 - 🔭 I’m currently a trainee at **ITI**.
 - 📫 How to reach me **muhammad.ashraf.tahaa@gmail.com**
 
