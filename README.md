@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ashraf</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | Microsoft Dynamics Specialist
+</h3>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 📄 &nbsp;Please have a look at my [CV](https://drive.google.com/drive/folders/1EKTDiOSEKBZ6MuASY5lGIe9uF7umRixz?usp=sharing).
-- 🔭 I’m currently a trainee at **ITI**.
+- 📄 &nbsp;Please have a look at my [CV](https://flowcv.com/resume/rkdlu04fg3).
+- 🔭 I’m currently a software engineer at **Link Development**.
 - 📫 How to reach me **muhammad.ashraf.tahaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -58,12 +59,22 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
-  
-  <br><br>
+    <br><br>
   <b>Other Tools:</b>
   <br>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
+</p>
+
+  <br><br>
+    <b> Microsoft Power Platform & Dynamics 365:</b>
+<p align="left">
+  <a href="https://powerplatform.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-1iM5C1L5m2ftALmMmoWm-cwgDOXFkuD5Q&s" alt="Power Platform" width="350" height="50"/>
+  </a>
+  <a href="https://dynamics.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://1000logos.net/wp-content/uploads/2021/12/Dynamics-365-Logo-2016.png" alt="Dynamics 365" width="100" height="50"/>
+  </a>
 </p>
