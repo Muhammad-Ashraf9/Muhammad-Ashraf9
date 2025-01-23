@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ashraf</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Microsoft Dynamics Specialist
+<h3 align="center">Software Engineer | Full Stack Developer | Microsoft Dynamics CRM Developer
 </h3>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
